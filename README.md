@@ -1,4 +1,4 @@
-HEY THERE, I'm Colin! 👋
+HEY THERE, I'M COLIN! 👋
 <br>
     I’m an FRC programmer, currently on the Mecanical Minds. I'm currently in high school but looking to go into software development in college! I love working on computers and
     robots!
