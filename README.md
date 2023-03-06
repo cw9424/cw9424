@@ -3,8 +3,8 @@ HEY THERE, I'M COLIN! 👋
     I’m a hobbiest developer. FIRST Volenteer and I'm currently working at Craft Doors USA as In-house IT and Media Marketing. Im looking to go to university for Software Development! I love working on computers and
     robots, both mechanicly and on the software!
 - 🧩 I’m currently learning everything 🤣
-- 🧑‍🤝‍🧑 I’m looking to collaborate with fellow FRC members and people with personal projects!
-- ⌛ 2022 Goals: Become a better developer, teacher, and leader in my community!
+- 🧑‍🤝‍🧑 I’m looking to collaborate with fellow FIRST Alum and fellow hobbitests!
+- ⌛ 2023 Goals: Become a better developer, teacher, and leader in my community!
 - 📫 How to reach me colinwallace9424@icloud.com
 
 
