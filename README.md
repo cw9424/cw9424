@@ -1,4 +1,4 @@
-HEY THERE, I'M COLIN! 👋
+HEY THERE, I'M Shane! 👋
 <br>
     I’m a hobbyist developer. FIRST Volunteer: I love working on computers and
     robots, both mechanically and on the software!
