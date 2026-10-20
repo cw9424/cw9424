@@ -1,13 +1,27 @@
-HEY THERE, I'M Shane! 👋
-<br>
-    I’m a hobbyist developer. FIRST Volunteer: I love working on computers and
-    robots, both mechanically and on the software!
-- 🧩 I’m currently learning everything 🤣
-- 🧑‍🤝‍🧑 I’m looking to collaborate with fellow FIRST Alum and fellow hobbyists!
-- 📫 How to reach me colinwallace9424@icloud.com
+# Hi, I'm Colin
 
+Maker, FIRST Robotics alum and volunteer, and hobbyist programmer. I like building things that move: small robots, mechanisms, and the 3D-printed parts that hold them together.
 
-<!---
-cw9424/cw9424 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### What I'm working on
+
+- Getting back into small robot builds after a few years away
+- Designing and 3D printing custom parts, brackets and mounts for my projects
+- Documenting each build here so other hobbyists can learn from it (or reuse it)
+
+### Projects
+
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [2022-rapid-react-main](https://github.com/cw9424/2022-rapid-react-main) | Competition robot code for FRC Team 6639 Mechanical Minds, 2022 Rapid React season: drive, intake, lift and a simple autonomous | Java, WPILib |
+| [Pneumatics_Test](https://github.com/cw9424/Pneumatics_Test) | Test bench code for a pneumatic arm, extended and retracted from controller buttons | Java, WPILib |
+
+More robotics and 3D printing projects coming soon.
+
+### Tools I use
+
+Java · WPILib · VS Code · Git · 3D printing
+
+### Get in touch
+
+Always happy to talk robots, 3D printing, or FIRST with fellow alumni and hobbyists.
+Email: colinwallace9424@icloud.com
